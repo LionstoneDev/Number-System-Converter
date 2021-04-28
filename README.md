@@ -7,6 +7,7 @@ Use convert() to convert a number in any number system to any other number syste
 Example:
 
 import numberConverters as nC
+
 print(nC.convert(1010, 2, 16))
 
 Output:
